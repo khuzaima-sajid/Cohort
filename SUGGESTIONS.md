@@ -389,3 +389,17 @@ The **Team Cohort** project is a solid foundation with excellent design and func
 
 **Reviewed by: Muaz**  
 *Feel free to reach out if you need clarification on any of these suggestions or want to discuss implementation priorities!*
+
+<p>
+    <strong>
+    Suggestion 1:
+    </strong> Add troubleshooting tips for setup. During setup, it took some time to fix issues like missing packages or server errors. Including a simple troubleshooting section would help new users save time.
+</p>
+
+<p>
+    <strong>
+    Suggestion 2:
+    </strong> Add usage examples or screenshots. Showing a few examples of how the app works can help users quickly understand the interface and features without confusion.
+</p>
+
+**khuzaima Sajid**  
